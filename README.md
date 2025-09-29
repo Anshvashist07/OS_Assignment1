@@ -49,9 +49,3 @@ All tasks are implemented in **Python**, using the built-in **`os` module** and 
 - Linux/Unix-based system (for `/proc` and process management to work)  
 
 ---
-
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
